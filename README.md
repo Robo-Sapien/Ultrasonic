@@ -1,2 +1,1 @@
-# Ultrasonic
-using PulseIn()
+# Ultrasonic HC SR-04
